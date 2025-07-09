@@ -12,5 +12,12 @@ If you are new to robotics, don’t worry! I will include all the necessary docu
 
 ### Who Are You:
 I am an enthusiast working in computer vision and robotics, and I am currently studying statistics. Over the past few years, I have decided to share my journey of self-discovery, and with this repository, I will be documenting my professional career for the first time. So let's start!
+</br>
+
+My Name : Sinem Çelik
+
+[LinkedIn](https://www.linkedin.com/in/sinem-celik-dl/)
+
+
 
 
