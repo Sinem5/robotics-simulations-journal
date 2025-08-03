@@ -2,7 +2,8 @@
 
 In this week, we will learn how to collect synthetic data from Isaac Sim. Additionally, we will learn how to control the jetbot using our keyboard by creating an Omnigraph.
 
-[![JetBot Keyboard Control](https://img.youtube.com/vi/5oR9pfAnfyw/0.jpg)](https://www.youtube.com/watch?v=5oR9pfAnfyw)
+https://github.com/user-attachments/assets/91563840-a070-4808-b77e-de7ed7e6f807
+
 
 - First, I create an environment that enhances productivity and facilitates the collection of synthetic data. The goal of this environment is to establish separate workspaces. I only use **Isaac Sim Assets** for this. In my setup, I include one forklift, one pallet, and one conveyor belt. You can add any other components you wish, and feel free to create more complex environments based on your GPU capabilities. For example, I can design something like this.
 </br>
