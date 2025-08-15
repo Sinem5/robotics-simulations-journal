@@ -1,4 +1,4 @@
-## Week 4 Scipting Real Tine Segmentation for Isaac Sim
+## Week 4 Scripting Real-Time Segmentation in Isaac Sim
 
 I want to be as honest as possible this week. Unfortunately, I was unable to work as effectively as I had hoped; my output was below my expectations. I did make some mistakes, but I appreciate your patience as we move forward.
 
