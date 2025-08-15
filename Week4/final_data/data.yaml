@@ -1,0 +1,11 @@
+path: /home/sinem/ros2_ws/final_data
+train: train/images
+val: val/images
+test: test/images
+
+nc: 4
+names:
+  0: transportation_area  # forklift
+  1: transportation_area  # pallet
+  2: working_area         # conveyor belt
+  3: jetbot
