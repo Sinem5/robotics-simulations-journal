@@ -1,4 +1,4 @@
-## Week 6 First robot at Webots
+## Week 6 First Robot at Webots
 
 https://github.com/user-attachments/assets/8270da4d-5f48-4329-bd68-228a49d77a9c
 
