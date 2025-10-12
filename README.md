@@ -19,5 +19,17 @@ My Name : Sinem Çelik
 [LinkedIn](https://www.linkedin.com/in/sinem-celik-dl/)
 
 
+## Weekly Logs
+
+- [Week 1 Starting With Isaac Sim](Week1/)
+- [Week 2 Synthetic Data with Isaac Sim](Week2/)
+- [Week 3 Camera Configurations and Python Scripting in Isaac Sim](Week3/)
+- [Week 4 Scripting Real-Time Segmentation in Isaac Sim](Week4/)
+- [Week 5 Scripting Real-Time Detection and Segmentation with YOLO in Isaac Sim (Failed), Webots First Steps](Week5/)
+- [Week 6 First Robot at Webots](Week6/)
+- [Week 7 Robot Controllers & Odometry in Webots](Week7/)
+- [Week 8  The Line Controller (Failed)](Week8/)
+- [Week 9 - The Line Follower (Fixed)](Week9/)
+- [Week 10 - Exploring Isaac Lab & Robotics Fundamentals](Week10/)
 
 
