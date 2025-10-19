@@ -29,7 +29,7 @@ My Name : Sinem Çelik
 - [Week 6 First Robot at Webots](Week6/)
 - [Week 7 Robot Controllers & Odometry in Webots](Week7/)
 - [Week 8  The Line Controller (Failed)](Week8/)
-- [Week 9 - The Line Follower (Fixed)](Week9/)
-- [Week 10 - Exploring Isaac Lab & Robotics Fundamentals](Week10/)
-
+- [Week 9  The Line Follower (Fixed)](Week9/)
+- [Week 10  Exploring Isaac Lab & Robotics Fundamentals](Week10/)
+- [Week 11  Status Update: Isaac Sim Project Remains Unresolved](Week11/)
 
