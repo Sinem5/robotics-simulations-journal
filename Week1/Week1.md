@@ -8,8 +8,9 @@ For installing instructions, you can use this link as referanse which also inclu
 
 
 
-Here is the official documentation for Isaac Sim. I will mostly use this source as reference: </br>
-[Isaac Sim Documentation](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/ros2_tutorials/ros2_landing_page.html)
+Here is the official documentation for Isaac Sim. I will mostly use this source as reference: 
+</br>
+[Isaac Sim Documentation](https://docs.isaacsim.omniverse.nvidia.com/5.0.0/ros2_tutorials/tutorial_ros2_turtlebot.html)
 
 
 
