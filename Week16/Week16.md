@@ -6,7 +6,7 @@ I will share all the details about this project in a separate repository. I will
 
 I also want to share a sketch I created to illustrate my vision:
 </br>
-![sketch](sketch.png)
+![the_sketch](the_sketch.png)
 </br>
 I may not be very skilled at sketching, but I believe this plan explains a lot. In this project, I will create a mobile robot with a arm. My goal is to learn more about robotics, so I am planning a simple example involving a green cube and a red cube, with buckets for each color placed in different corners of the room. The robot will be able to map the room, detect and grasp objects, and transfer them to the correct buckets automatically. I aim to complete this project in 14 weeks, although it might take longer. For the timeline, I am not counting this week as part of the 14 weeks.
 
