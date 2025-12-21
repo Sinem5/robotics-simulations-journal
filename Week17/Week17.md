@@ -8,6 +8,7 @@ I kept only the green and red blocks for this part of the project. Later project
 ![delete two blocks](delete_two_blocks.png)
 
 I changed the block’s scale for this setup:
+
 ![scale blocks](block_scale.png)
 
 I added a bin-shaped object to the simulation to represent the recycling bins:
