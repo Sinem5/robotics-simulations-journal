@@ -43,3 +43,4 @@ My Name : Sinem Çelik
 - [Week 20 Linking the Arm and Driving the Base (Failed)](Week20/)
 - [Week 21 Driving the Robot (Failed Again)](Week21/)
 - [Week22 Problems After Problems](Week22/)
+- [Week23 Some Problems Fixed, Never Give Up!](Week23/)
