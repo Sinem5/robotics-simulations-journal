@@ -46,3 +46,4 @@ My Name : Sinem Çelik
 - [Week23 Some Problems Fixed, Never Give Up!](Week23/)
 - [Week24 Driving the Robot](Week24/)
 - [Week25 SLAM](Week25/)
+- [Week26 Exploring SLAM and NAV2](Week26/)
