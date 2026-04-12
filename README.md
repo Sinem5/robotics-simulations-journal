@@ -47,3 +47,4 @@ My Name : Sinem Çelik
 - [Week24 Driving the Robot](Week24/)
 - [Week25 SLAM](Week25/)
 - [Week26 Exploring SLAM and NAV2](Week26/)
+- [Week27 Trying to Delete Footprints (Failed)](Week27/)
