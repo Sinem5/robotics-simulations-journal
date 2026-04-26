@@ -5,19 +5,19 @@ We need to move the robot to the side of the desk, as it will later grab the box
 Coordinates:
 
 - The Desk :Position(-1.00143, -0.0194793, 0), Orientation(0, 0, -0.542605, 0.839988) = Angle: -1.14707
-</br>
+
 ![The Desk](theDesk.png)
-</br>
+
 
 - Red Box:Position(3.01234, -2.46986, 0), Orientation(0, 0, -0.611311, 0.79139) = Angle: -1.31543
-</br>
+
 ![Red Box](redBox.png)
-</br>
+
 
 - Green Box: Position(-2.78368, -2.34036, 0), Orientation(0, 0, -0.819903, 0.572503) = Angle: -1.92248
-</br>
+
 ![Green Box](greenBox.png)
-</br>
+
 
 I've noticed that it sometimes gets stuck on the legs of the desk, so we need to keep this in mind while writing the script.
 
