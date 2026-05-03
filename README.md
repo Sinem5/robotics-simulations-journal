@@ -49,3 +49,17 @@ My Name : Sinem Çelik
 - [Week26 Exploring SLAM and NAV2](Week26/)
 - [Week27 Trying to Delete Footprints (Failed)](Week27/)
 - [Week 28 Finally! Clean Map and Moving Robot with NAV2](Week28/)
+- [Week 29](Week29/)
+- [Week 30 Navigation Script](Week30/)
+
+## Project Status
+
+This repository reflects work developed as part of a weekly robotics update series.
+
+The weekly format has been discontinued to allow for a more flexible and focused development process. Future work will continue in separate, project-specific repositories.
+
+## Notes
+
+- Development is ongoing
+- Updates will be shared when meaningful progress is made
+- This repository remains as a reference for the current state
